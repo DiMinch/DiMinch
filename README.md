@@ -2,7 +2,7 @@
 <a href='https://www.linkedin.com/in/phan-duy-minh/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br/>
 <br/>
-I am a Full-stack Software Engineer from Viet Nam. Nice to meet you.
+I am a Full-stack Software Engineer from Viet Nam. Through my academic projects and self-learning, I have gained experience in software development using technologies such as Java, Spring Boot, SQL and other web development frameworks. I am also passionate about building scalable applications and continuously improving myself. Nice to meet you.
 <br/>
 <br/>
 
@@ -34,6 +34,12 @@ I am a Full-stack Software Engineer from Viet Nam. Nice to meet you.
 
 ### 🛠️ My Projects
 Updating...
+
+- [TungTung - English Centre System for Managers, Teachers & Students](https://github.com/SE121-TungTung) - LATEST
+- [Learniverse - Social Learning Platform](https://github.com/octguy/learniverse) - COMPLETED
+- [Viti - Laptop Store Management System](https://github.com/SE100-Q13-N-13) - COMPLETED
+- [TraPhe - Coffee Chain Management System](https://github.com/DiMinch/TraPhe) - DEVELOPING
+- [Totoro - Microservice Smart Accommodation Search Platform for Students](https://github.com/KhoiLuu143/SE361-ToToRo) - DEVELOPING
 
 ---
 
